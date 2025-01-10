@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Register from "./components/Register";
 import Navbar from "./components/Navbar";
-import Login from "./components/login";
-import ResetPassword from "./components/resetPassword";
-import ForgetPassword from "./components/forgetPassword";
+import Login from "./components/Login";
+import ResetPassword from "./components/ResetPassword";
+import ForgetPassword from "./components/ForgetPassword";
 
 const App = () => {
   return (
